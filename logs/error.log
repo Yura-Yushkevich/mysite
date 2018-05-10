@@ -8,3 +8,37 @@
 [Tue May 08 16:50:53.296358 2018] [authz_core:error] [pid 5700:tid 960] [client 127.0.0.1:20118] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
 [Tue May 08 16:55:38.624678 2018] [authz_core:error] [pid 204:tid 948] [client 127.0.0.1:20137] AH01630: client denied by server configuration: C:/Apache24, referer: http://info.mysite.local/
 [Tue May 08 16:56:04.940183 2018] [authz_core:error] [pid 204:tid 948] [client 127.0.0.1:20140] AH01630: client denied by server configuration: C:/Apache24, referer: http://www.mysite.local/
+[Thu May 10 10:42:14.770240 2018] [authz_core:error] [pid 204:tid 952] [client 127.0.0.1:23224] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 10:42:14.772240 2018] [authz_core:error] [pid 204:tid 952] [client 127.0.0.1:23224] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 10:56:49.240257 2018] [authz_core:error] [pid 6972:tid 960] [client 127.0.0.1:23402] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 10:56:49.245257 2018] [authz_core:error] [pid 6972:tid 960] [client 127.0.0.1:23402] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 11:06:47.344466 2018] [authz_core:error] [pid 7180:tid 960] [client 127.0.0.1:23567] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 11:06:47.349466 2018] [authz_core:error] [pid 7180:tid 960] [client 127.0.0.1:23567] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/
+[Thu May 10 11:06:57.124026 2018] [authz_core:error] [pid 7180:tid 960] [client 127.0.0.1:23570] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:07:12.772921 2018] [authz_core:error] [pid 7180:tid 952] [client 127.0.0.1:23581] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:18:41.124292 2018] [authz_core:error] [pid 6780:tid 952] [client 127.0.0.1:23965] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:25:04.961246 2018] [authz_core:error] [pid 9136:tid 960] [client 127.0.0.1:24705] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:27:36.333904 2018] [authz_core:error] [pid 9136:tid 956] [client 127.0.0.1:24935] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:27:39.509086 2018] [authz_core:error] [pid 9136:tid 956] [client 127.0.0.1:24935] AH01630: client denied by server configuration: D:/mysite/errors
+[Thu May 10 11:28:11.066891 2018] [authz_core:error] [pid 460:tid 960] [client 127.0.0.1:24991] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:28:11.070891 2018] [authz_core:error] [pid 460:tid 960] [client 127.0.0.1:24991] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:28:11.084892 2018] [authz_core:error] [pid 460:tid 960] [client 127.0.0.1:24991] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:28:11.088892 2018] [authz_core:error] [pid 460:tid 952] [client 127.0.0.1:24992] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:29:11.904371 2018] [authz_core:error] [pid 460:tid 952] [client 127.0.0.1:25084] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:29:11.912371 2018] [authz_core:error] [pid 460:tid 952] [client 127.0.0.1:25084] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:29:11.924372 2018] [authz_core:error] [pid 460:tid 952] [client 127.0.0.1:25084] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:29:11.925372 2018] [authz_core:error] [pid 460:tid 960] [client 127.0.0.1:25085] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:31:13.061300 2018] [authz_core:error] [pid 1140:tid 928] [client 127.0.0.1:25273] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:31:13.062300 2018] [authz_core:error] [pid 1140:tid 920] [client 127.0.0.1:25275] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:31:13.063300 2018] [authz_core:error] [pid 1140:tid 916] [client 127.0.0.1:25276] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:31:13.064301 2018] [authz_core:error] [pid 1140:tid 924] [client 127.0.0.1:25274] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:32:39.509245 2018] [authz_core:error] [pid 4388:tid 944] [client 127.0.0.1:25414] AH01630: client denied by server configuration: D:/mysite/errorsindex.html
+[Thu May 10 11:32:44.734544 2018] [authz_core:error] [pid 4388:tid 944] [client 127.0.0.1:25414] AH01630: client denied by server configuration: D:/mysite/errorsindex.html
+[Thu May 10 11:33:22.305693 2018] [authz_core:error] [pid 6320:tid 960] [client 127.0.0.1:25481] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:22.310693 2018] [authz_core:error] [pid 6320:tid 960] [client 127.0.0.1:25481] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:22.319694 2018] [authz_core:error] [pid 6320:tid 956] [client 127.0.0.1:25482] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:22.326694 2018] [authz_core:error] [pid 6320:tid 948] [client 127.0.0.1:25483] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:25.642884 2018] [authz_core:error] [pid 6320:tid 948] [client 127.0.0.1:25483] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:25.656884 2018] [authz_core:error] [pid 6320:tid 948] [client 127.0.0.1:25483] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:25.666885 2018] [authz_core:error] [pid 6320:tid 948] [client 127.0.0.1:25483] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/
+[Thu May 10 11:33:25.666885 2018] [authz_core:error] [pid 6320:tid 956] [client 127.0.0.1:25482] AH01630: client denied by server configuration: C:/Apache24, referer: http://mysite.local/err/

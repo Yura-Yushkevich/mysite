@@ -1,0 +1,6 @@
+Header set X-Admin-Name "Yura Yushkevich2"
+
+AuthType Basic
+AuthName "Запретная зона!"
+AuthUserFile "d:\.htpasswd"
+Require valid-user

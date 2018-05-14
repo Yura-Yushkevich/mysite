@@ -1,6 +1,15 @@
 Header set X-Admin-Name "Yura Yushkevich2"
 
-AuthType Basic
-AuthName "Запретная зона!"
-AuthUserFile "d:\.htpasswd"
-Require valid-user
+#Запрет доступа к архивам zip и rar
+<FilesMatch "\.(zip|rar)$">
+	AuthType Basic
+	AuthName "Secure File"
+	AuthUserFile "d:\mysite\conf\.htpasswd"
+	Require valid-user
+</FilesMatch>
+
+Options FollowSymLinks
+RewriteEngine On
+#RewriteRule [a-zA-z]+/[0-9]{4}/\d{1,2}/[0-9]{1,2}/?$ *.html
+#RewriteRule [a-zA-z]+.loc/? http://mysite.local [R=301,L]
+RewriteRule ^mysite.local/in/? [G]
